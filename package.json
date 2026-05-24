@@ -1,0 +1,10 @@
+{
+  "name": "sitefiles",
+  "private": true,
+  "devDependencies": {
+    "marss": "^0.0.0"
+  },
+  "scripts": {
+    "build:feed": "marss changelog.md colophon_feed.rss"
+  }
+}
