@@ -32,7 +32,7 @@ jobs:
       - name: Deploy colophon_feed.rss to Neocities
         uses: bcomnes/deploy-to-neocities@v3
         with:
-          api_key: ${{ secrets.NEOCITIES_API_KEY }}
+          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
           dist_dir: .
           cleanup: false
           include: |
