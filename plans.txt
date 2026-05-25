@@ -1,4 +1,7 @@
 Photography layout: Pinterest-y, or Unsplashy
-Add cell phone designs
+Add cell phone designs portfolio
 Art page needs fixing/all art menu items redone
-Add Videos works
+Add Videos works from makertube
+Inventory of CSS to pull any styling you're not actively using (goodbye old designs! back up to archive.org)
+Pagination of/index content to get ahead of page data loading issues
+
