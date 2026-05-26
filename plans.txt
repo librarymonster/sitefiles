@@ -4,3 +4,4 @@ Art page needs fixing/all art menu items redone, Moon baths page/pdf, spa day
 Inventory of CSS to pull any styling you're not actively using (goodbye old designs! back up to archive.org)
 Pagination of/index content to get ahead of page data loading issues
 Credit MARSS and RSS feed aggregator devs in the Colophon
+Got rid of the /cauldron page so incorporating those into my /index page; editing some of the featured posts to redirect to the right places.
