@@ -1,7 +1,6 @@
 Photography layout: Pinterest-y, or Unsplashy
 Add cell phone designs portfolio
 Art page needs fixing/all art menu items redone, Moon baths page/pdf, spa day 
-Add Videos works from makertube
 Inventory of CSS to pull any styling you're not actively using (goodbye old designs! back up to archive.org)
 Pagination of/index content to get ahead of page data loading issues
 Credit MARSS and RSS feed aggregator devs in the Colophon
