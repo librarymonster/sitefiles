@@ -10,6 +10,11 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-05-28
+Created https://github.com/librarymonster/sitefiles/blob/main/plans.txt for planned changes. 
+Credited MARSS and RSS feed aggregator devs in the Colophon
+The headers 1-4 were all wacky re: sizing. Fixed. Removed excessive uppercase text, which is rather out of style & inaccessible. But the font, SFNewRepublic, looks best when all in caps (I was inspired by the BREAD wine label, haha).
+
 ## 2026-05-25 Added videos works
 Added my makertube.net videos to /index in chronological order and added tags: ASMR, weather, nature, beaches, storm and rain sounds. Eventual goal will be to move all my posts/boards/etc. into the /index tag system + infinite scrolling with pauses to load more. Fixed the headings in /index. H1's are just the two columns Posts & Feeds, H2's are column item subject headings, H3 are subtitles. Removed any 'read more' links inside post descriptions.
 
