@@ -12,7 +12,7 @@ htmlUrl: https://librarymonster.io/colophon
 
 ## 2026-05-28
 Created https://github.com/librarymonster/sitefiles/blob/main/plans.txt for planned changes. 
-Credited MARSS and RSS feed aggregator devs in the Colophon
+Credited MARSS and RSS feed aggregator devs in the Colophon.
 The headers 1-4 were all wacky re: sizing. Fixed. Removed excessive uppercase text, which is rather out of style & inaccessible. But the font, SFNewRepublic, looks best when all in caps (I was inspired by the BREAD wine label, haha).
 
 ## 2026-05-25 Added videos works
