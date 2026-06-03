@@ -10,6 +10,10 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-06-03
+Credited + linked the artist djarn on picrew for my profile pic/avatar
+Fixed the headings issues in /index
+
 ## 2026-05-28
 Created a [txt](https://github.com/librarymonster/sitefiles/blob/main/plans.txt) for planned changes. 
 Credited MARSS and RSS feed aggregator devs in the Colophon.
