@@ -6,4 +6,4 @@ Pagination of/index content to get ahead of page data loading issues
 ~~Credit MARSS and RSS feed aggregator devs in the Colophon~~
 Got rid of the /cauldron page so incorporating those into my /index page; editing some of the featured posts to redirect to the right places.
 ~~The headers 1-4 were all wacky re: sizing. Need to fix that, as well as all uppercase text. That's out of style & inaccessible.~~
-Credit artist djarn on picrew for my profile pic
+~~Credit artist djarn on picrew for my profile pic~~ 6/3
