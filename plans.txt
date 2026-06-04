@@ -8,3 +8,4 @@ Pagination of/index content to get ahead of page data loading issues
 Got rid of the /cauldron page so incorporating those into my /index page; editing some of the featured posts to redirect to the right places.
 Guestbook CSS?
 Add a Fandom Meta page
+Any SEO tricks I'm missing? Check
