@@ -11,7 +11,7 @@ htmlUrl: https://librarymonster.io/colophon
 -->
 
 ## 2026-06-11
-Added October, 2024 board entries into /index and deleted the old card design.
+Added October, 2024 board entries into /index and deleted the old card design. Edited the RSS aggregate feed to just the platform/type of entry (raindrop.io > "Bookmark"; Mastodon > "Fediverse"; Dreamwidth > "Blog") & date. Removed the 40 pt text-indent.
 
 ## 2026-06-03
 Credited + linked the artist djarn on picrew for my profile pic/avatar. Fixed the headings issues in /index.
