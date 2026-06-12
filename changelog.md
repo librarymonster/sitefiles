@@ -10,6 +10,9 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-06-11
+Added October, 2024 board entries into /index and deleted the old card design.
+
 ## 2026-06-03
 Credited + linked the artist djarn on picrew for my profile pic/avatar. Fixed the headings issues in /index.
 
