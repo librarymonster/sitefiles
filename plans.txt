@@ -9,3 +9,5 @@ Got rid of the /cauldron page so incorporating those into my /index page; editin
 Guestbook CSS?
 Add a Fandom Meta page
 Any SEO tricks I'm missing? Check
+Fix links to /cauldron and /spa; more broken links the farther back you go in the boards
+Page to explain why I'm LibraryMonster?
