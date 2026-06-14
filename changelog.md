@@ -10,6 +10,9 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-06-14
+Realized /index was autoplaying BOC's Harvest Moon and disabled that, lol. In other news, I figured out Jellyfin servers! Next step: organizing my files & folders for streaming through Jellyfin, and figuring out how to self-host my website! :D
+
 ## 2026-06-11
 Added October, September, August & July 2024 board entries into /index and deleted the old card designs. Edited the RSS aggregate feed to just the platform/type of entry (raindrop.io > "Bookmark"; Mastodon > "Fediverse"; Dreamwidth > "Blog") & date. Removed the 40 pt text-indent.
 
