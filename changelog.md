@@ -10,7 +10,7 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
-##2026-07-6
+## 2026-07-06
 It's been awhile but I just added a couple new items from old boards into the FP/index of LM.io, so that's nice. Noticing I need to convert some images to webp so load time doesn't go bonkers. In other news, thinking about rebranding...
 
 ## 2026-06-14
