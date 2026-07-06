@@ -10,6 +10,9 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+##2026-07-6
+It's been awhile but I just added a couple new items from old boards into the FP/index of LM.io, so that's nice. Noticing I need to convert some images to webp so load time doesn't go bonkers. In other news, thinking about rebranding...
+
 ## 2026-06-14
 Realized /index was autoplaying BOC's Harvest Moon and disabled that, lol. In other news, I figured out Jellyfin servers! Next step: organizing my files & folders for streaming through Jellyfin, and figuring out how to self-host my website! :D
 
