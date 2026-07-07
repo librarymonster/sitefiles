@@ -10,6 +10,9 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-07-07
+Finished moving 6 board cards from April & May 2024 into /index - only 4 more boards, 6 cards each, to go! Debating whether to keep the old designs in the ether of my website. I've been deleting them but of course I have backups... /hmm idk 
+
 ## 2026-07-06
 It's been awhile but I just added a couple new items from old boards into the FP/index of LM.io, so that's nice. Noticing I need to convert some images to webp so load time doesn't go bonkers. In other news, thinking about rebranding...
 
