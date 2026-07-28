@@ -10,6 +10,10 @@ publishAtUtcHour: 12
 htmlUrl: https://librarymonster.io/colophon
 -->
 
+## 2026-07-28
+
+Fixed my menu; the codepen.io default img I really liked (this small black wood texture) went to lunch on me so I had to find another! Appreciate this post from WebDesignLedger.com with free background wood patterns I could use: https://webdesignledger.com/45222-2/ 
+
 ## 2026-07-07
 Finished moving 6 board cards from April & May 2024 into /index - only 4 more boards, 6 cards each, to go! Debating whether to keep the old designs in the ether of my website. I've been deleting them but of course I have backups... /hmm idk 
 
