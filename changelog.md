@@ -12,7 +12,7 @@ htmlUrl: https://monsterbyte.lol/colophon
 
 ## 2026-07-29
 
-REBRANDED ZOMG and now we're here, at monsterbyte.lol. Realtalk will this RSS feed update into my site even tho the domain has changed?
+REBRANDED ZOMG and now we're here, at monsterbyte.lol. Realtalk will this RSS feed update into my site even tho the domain has changed? Edit YESSSSS woohoo!
 
 ## 2026-07-28
 
