@@ -2,13 +2,17 @@
 
 <!--
 @marss
-title: LibraryMonster.io Changelog
-link: https://librarymonster.io/
-description: Small updates and tweaks to my Neocities site, LM.io.
+title: monsterbyte.lol Changelog
+link: https://monsterbyte.lol/
+description: Small updates and tweaks to my Neocities site, monsterbyte.lol.
 language: en-us
 publishAtUtcHour: 12
-htmlUrl: https://librarymonster.io/colophon
+htmlUrl: https://monsterbyte.lol/colophon
 -->
+
+## 2026-07-29
+
+REBRANDED ZOMG and now we're here, at monsterbyte.lol. Realtalk will this RSS feed update into my site even tho the domain has changed?
 
 ## 2026-07-28
 
