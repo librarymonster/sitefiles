@@ -1,0 +1,54 @@
+name: Build Feast feed and homepage, deploy to Neocities
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "data/feast.yml"
+      - "templates/**"
+      - "scripts/build_site.py"
+      - "scripts/build_feed.py"
+      - "requirements.txt"
+      - ".github/workflows/feast-neocities.yml"
+  schedule:
+    - cron: "0 13 * * *"   # daily safety-net run, 13:00 UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild Feast cards in index.html
+        run: python scripts/build_site.py
+
+      - name: Rebuild feed.xml
+        run: python scripts/build_feed.py
+
+      - name: Commit changes if any
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rebuild Feast section and feed.xml from data/feast.yml"
+          file_pattern: "index.html feed.xml"
+
+      - name: Deploy Feast content to Neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: .
+          cleanup: false
+          include: |
+            index.html
+            feed.xml

@@ -1,0 +1,26 @@
+  <div class="blog-card{{ ' alt' if is_alt else '' }}">
+    <div class="meta">
+{% if post.image %}
+      <div class="photo" role="img" aria-label="{{ post.image_alt|default('', true) }}" style="background-image: url({{ post.image }});{% if post.image_extra_style %} {{ post.image_extra_style }}{% endif %}"></div>
+{% endif %}
+      <ul class="details">
+        <li class="date">{{ post.date_display }}</li>
+{% if post.tags %}
+        <li class="tags">
+          <ul>
+{% for tag in post.tags %}
+            <li><a href="#">{{ tag }}</a></li>
+{% endfor %}
+          </ul>
+        </li>
+{% endif %}
+      </ul>
+    </div>
+    <div class="description">
+      <h2>{% if post.link %}<a href="{{ post.link }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</h2>
+{% if post.subtitle %}
+      <h3>{{ post.subtitle }}</h3>
+{% endif %}
+      <p>{{ post.summary }}</p>
+    </div>
+  </div>
