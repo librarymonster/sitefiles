@@ -8,7 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 14:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 18:33:40 +0000</lastBuildDate>
+    <item>
+      <title>Cutesy Cake &amp; Charm Art on Cell Phone Cases</title>
+      <link>https://www.etsy.com/shop/LibraryMonsterStudio?section_id=59675593</link>
+      <description>Sweet Treats, Lucky Ducks, and Chocolate + Bread — I made these in my studio a couple months ago and finally getting around to posting them on my Etsy. It's surprisingly stressful to put yourself out there.</description>
+      <guid isPermaLink="true">https://www.etsy.com/shop/LibraryMonsterStudio?section_id=59675593</guid>
+      <category>Art</category>
+      <category>Design</category>
+      <category>Phone Case Art</category>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scite.AI Evaluation</title>
       <link>https://librarymonster.io/post/2026-3-28-sciteai</link>
@@ -196,16 +206,6 @@
       <category>Fanfiction</category>
       <category>Good Omens</category>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lake Michigan Summertime - 29 mins</title>
-      <link>https://makertube.net/w/3ZC3cHosjq8ws1ktMk6Jag</link>
-      <description>Waves crashing ASMR — Finally finished editing this 29 minute video of lovely waves crashing over the shores of Lake Michigan.</description>
-      <guid isPermaLink="true">https://makertube.net/w/3ZC3cHosjq8ws1ktMk6Jag</guid>
-      <category>ASMR</category>
-      <category>Nature</category>
-      <category>Beaches</category>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
