@@ -10,6 +10,10 @@ publishAtUtcHour: 12
 htmlUrl: https://monsterbyte.lol/colophon
 -->
 
+## 2026-08-02
+
+Updated my #Feast RSS feed for the first time ever. Learning how to 'push to neocities' with github; still interested in self-hosting eventually. I posted my fancy artsy cutesy cell phone cases to Etsy and x-posted to my site and masto. Also discovered how a lot of images are broken under 'Feast' and going to be fixing that for awhile.
+
 ## 2026-07-29
 
 REBRANDED ZOMG and now we're here, at monsterbyte.lol. Realtalk will this RSS feed update into my site even tho the domain has changed? Edit YESSSSS woohoo!
